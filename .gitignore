@@ -1,0 +1,10 @@
+node_modules
+node_modules
+mkdir /workspaces/FundFinder/models
+mkdir /workspaces/FundFinder/controllers
+mkdir /workspaces/FundFinder/routes
+mkdir /workspaces/FundFinder/config
+mkdir /workspaces/FundFinder/middleware
+mkdir /workspaces/FundFinder/utils
+mkdir /workspaces/FundFinder/tests
+mkdir /workspaces/FundFinder/tests/unit         
